@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jttn90/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jttn90/configure-ad)
-<!-- - [Group Policy Management and observing Event Viewer](https://github.com/jttn90/gpm-eventvwr) -->
+  - [Group Policy Management and Inspecting Event Viewer logs](https://github.com/jttn90/gpm-eventvwr)
 <!-- - <b>Networking Protocols</b> -->
 <!-- - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jttn90/azure-network-protocols) -->
 
